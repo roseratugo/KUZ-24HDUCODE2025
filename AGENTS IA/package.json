@@ -1,0 +1,30 @@
+{
+  "name": "kuz_agentsia",
+  "version": "1.0.0",
+  "description": "Agents IA pour gérer les tâches de réception d'hôtel",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:api": "node src/index.js api",
+    "start:cli": "node src/index.js cli",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.36",
+    "@langchain/core": "^0.3.42",
+    "@langchain/langgraph": "^0.2.57",
+    "@langchain/mistralai": "^0.2.0",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "langfuse": "^3.37.0",
+    "langfuse-langchain": "^3.37.0",
+    "uuid": "^9.0.1",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

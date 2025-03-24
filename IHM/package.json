@@ -1,0 +1,25 @@
+{
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "kokoro": "^1.0.0",
+    "lil-gui": "^0.20.0",
+    "sf": "^0.2.0",
+    "three": "^0.174.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.0"
+  }
+}
