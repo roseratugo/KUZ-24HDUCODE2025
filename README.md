@@ -73,4 +73,4 @@ Interface utilisateur immersive avec :
 - Environnement 3D de l'hôtel
 - Réceptionniste virtuel animé
 - Interactions vocales
-- Design thématique "Spookie California"
+- Design thématique "Spookie California" 👻
