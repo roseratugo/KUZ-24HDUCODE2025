@@ -5,7 +5,7 @@ Vainqueur 2025 - 1er prix étuditant du sujet proposé par Le Mans School Of AI
 
 - **Ugo ROSERAT** : Il s'est occupé de développer l'IHM et l'API de speech-to-text / text-to-speech.
 - **Zakaria SALMI** : Il s'est occupé, avec Kévin ALVES, du développement des différents agents IA. (PS : Il est en recherche d'alternance, n'hésitez pas à le contacter.)
-- **Kévin ALVES** : Il s'est occupé, avec Zakaria SALMI, du développement des différents agents IA.
+- **Kévin ALVES** : Il s'est occupé, avec Zakaria SALMI, du développement des différents agents IA. (PS : Faut vraiment donner une alternance à Zak)
 
 ## Les stats fun
 - **5720** lignes de codes
