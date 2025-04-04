@@ -1,5 +1,6 @@
 # KUZ - 24H DU CODE 2025 : Sujet Le Mans School Of AI
 Vainqueur 2025 - 1er prix étuditant du sujet proposé par Le Mans School Of AI
+![La team](images_video/la_team.jpg)
 
 ## Les développeurs
 
